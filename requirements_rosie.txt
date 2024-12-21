@@ -52,6 +52,7 @@ prompt_toolkit==3.0.48
 psutil==6.1.0
 pure_eval==0.2.3
 Pygments==2.18.0
+pynndescent==0.5.13
 pyparsing==3.1.4
 python-dateutil==2.9.0.post0
 pytz==2024.2
@@ -71,6 +72,7 @@ sympy==1.13.3
 threadpoolctl==3.5.0
 tokenizers==0.20.3
 torch==2.4.1
+torchvision==0.19.1
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
@@ -78,7 +80,7 @@ traits==6.4.3
 transformers==4.46.3
 typing_extensions==4.12.2
 tzdata==2024.2
-umap==0.1.1
+umap-learn==0.5.7
 urllib3==2.2.3
 wcwidth==0.2.13
 widgetsnbextension==4.0.13
